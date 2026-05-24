@@ -14,4 +14,4 @@ Management needs to understand profit drivers and discount impact.
 - Dataset: E-Commerce Sales (CSV)
 
 ## Key Queries
-See `queries.sql`
+See [queries.sql](./queries.sql)
